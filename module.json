@@ -1,0 +1,15 @@
+{
+  "name": "xel-camp-rest",
+  "title": "🔥 Xel's Camp Rest System",
+  "description": "Beautiful UI with ration control, exhaustion, and music. By Xel.",
+  "version": "1.0.0",
+  "author": "Xel",
+  "minimumCoreVersion": "11",
+  "compatibleCoreVersion": "12",
+  "scripts": [
+    "scripts/camp-rest.js"
+  ],
+  "icon": "https://iceoloveu111.github.io/Rest/icon.png",
+  "manifest": "https://iceoloveu111.github.io/Rest/module.json",
+  "download": "https://iceoloveu111.github.io/Rest/xel-camp-rest.zip"
+}
